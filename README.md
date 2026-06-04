@@ -1,11 +1,6 @@
-<div align="center" style="background-image: url('https://raw.githubusercontent.com/leerov/leerov/refs/heads/main/baner.png'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 16px;">
+<div align="center" style="background-image: url('banner_background.jpg'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 16px;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chathura&size=172&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=1920&height=192&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes..." alt="Typing SVG" /></a>
 </div>
-
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=900&center=true&vCenter=true&width=820&color=58A6FF&lines=I+build+real-time+data+infrastructure;CDC+%C2%B7+streaming+%C2%B7+distributed+systems;Where+data+infra+meets+AI" alt="Adrij Shikhar" />
-</a>
 
 <details>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
