@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('banner_background.jpg'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 16px;">
+<div align="center" style="background-image: url('https://github.com/leerov/leerov/blob/main/banner_background.jpg?raw=true'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: 16px;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chathura&size=172&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=1920&height=192&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes..." alt="Typing SVG" /></a>
 </div>
 
