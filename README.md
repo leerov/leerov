@@ -3,7 +3,7 @@ https://github.com/adrijshikhar/adrijshikhar/blob/main/README.md?plain=1
 https://github.com/gautamkrishnar/gautamkrishnar/blob/master/README.md
 https://github.com/huijing/huijing/blob/main/README.md?plain=1
 </div> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chathura&size=172&duration=2000&pause=500&color=FFFFFF88&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chathura&size=172&duration=2000&pause=500&color=FFFFFF88&center=true&vCenter=true&width=1000&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes...)](https://git.io/typing-svg)
 
 <details>
     <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
