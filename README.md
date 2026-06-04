@@ -42,9 +42,6 @@ https://github.com/huijing/huijing/blob/main/README.md?plain=1
         <a href="https://www.djangoproject.com/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
         </a>
-        <a href="https://laravel.com/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-        </a>
         <a href="https://nodejs.org" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         </a>
@@ -95,9 +92,6 @@ https://github.com/huijing/huijing/blob/main/README.md?plain=1
         </a>
         <a href="https://powerbi.microsoft.com/" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-        </a>
-        <a href="https://www.tableau.com/" target="_blank">
-            <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
         </a>
         <!-- DevOps, CI, инструменты -->
         <a href="https://www.docker.com/" target="_blank">
