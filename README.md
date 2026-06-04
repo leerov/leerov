@@ -6,6 +6,14 @@ https://github.com/huijing/huijing/blob/main/README.md?plain=1
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chathura&weight=800&size=80&duration=2000&pause=500&color=FFFFFF&background=00000044&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes...)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 ### Contact
 - [VK](https://vk.com/leerov)
 - [Telegram](https://t.me/leerov)
