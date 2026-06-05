@@ -1,3 +1,5 @@
+---
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Chathura&weight=800&size=80&duration=2000&pause=500&color=FFFFFF&background=00000044&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes..." alt="Typing SVG">
@@ -135,3 +137,5 @@
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github-actions" width="40" height="40"/>
     </a>
 </p>
+
+---
