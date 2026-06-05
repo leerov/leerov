@@ -1,30 +1,30 @@
-<!-- 
-https://github.com/adrijshikhar/adrijshikhar/blob/main/README.md?plain=1
-https://github.com/gautamkrishnar/gautamkrishnar/blob/master/README.md
-https://github.com/huijing/huijing/blob/main/README.md?plain=1
-</div> -->
-
 <div align="center">
-  <!-- Верхняя SVG-подпись -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Chathura&weight=800&size=80&duration=2000&pause=500&color=FFFFFF&background=00000044&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes..." alt="Typing SVG">
   </a>
 
-  <!-- Нижний Pacman-график, теперь такой же ширины -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg" width="800">
   </picture>
 </div>
-
 <!--_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_-->
 
-### Contact
+---
+
+### Contact (sorted by priority)
+- [ZhmulevVV@gmail.com](mailto:ZhmulevVV@gmail.com)
+- [Max](https://max.ru/u/f9LHodD0cOKKz--0rQsMUkB_JQO2_0E_fv0Ku7Cimq7U1U38RE_2WBT1rbc)
+- [Telegram](https://t.me/harveyfa)
 - [VK](https://vk.com/leerov)
-- [Telegram](https://t.me/leerov)
-- [Lichess](https://lichess.org/@/Leerov)
+
+
+### Some profiles
 - [S21 profile](https://platform.21-school.ru/profile/harveyfa)
+- [Lichess](https://lichess.org/@/Leerov)
+
+---
 
 ### Stack
 <p align="left">
