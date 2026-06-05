@@ -23,6 +23,7 @@
 ### Some profiles
 - [S21 profile](https://platform.21-school.ru/profile/harveyfa)
 - [Lichess](https://lichess.org/@/Leerov)
+- [Steam](https://steamcommunity.com/id/leerov/)
 
 ---
 
