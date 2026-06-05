@@ -4,13 +4,17 @@ https://github.com/gautamkrishnar/gautamkrishnar/blob/master/README.md
 https://github.com/huijing/huijing/blob/main/README.md?plain=1
 </div> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chathura&weight=800&size=80&duration=2000&pause=500&color=FFFFFF&background=00000044&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes...)](https://git.io/typing-svg)
+<div align="center">
+  <!-- Верхняя SVG-подпись -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Chathura&weight=800&size=80&duration=2000&pause=500&color=FFFFFF&background=00000044&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I+am+Vladimir;I+can+do+something+%3A3;AND...;I+can't+do+something+%3Ac;Let's+grok+%26+hack+something+%3C3;Sometimes..." alt="Typing SVG">
+  </a>
 
-<div align="center" style="width: 800px; max-width: 100%; margin: 0 auto;">
+  <!-- Нижний Pacman-график, теперь такой же ширины -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg" style="width: 100%; display: block;">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leerov/leerov/output/pacman-contribution-graph.svg" width="800">
   </picture>
 </div>
 
