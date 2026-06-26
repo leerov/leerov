@@ -29,6 +29,11 @@
 - [Steam](https://steamcommunity.com/id/leerov/)
 
 ---
+### My micro projects
+- [pill-schedule](https://leerov.github.io/pill-schedule/)
+- [booking_service](https://github.com/leerov/booking_service)
+
+---
 
 ### Stack
 <p align="left">
