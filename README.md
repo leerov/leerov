@@ -31,6 +31,10 @@
 ---
 ### My micro projects
 - [pill-schedule](https://leerov.github.io/pill-schedule/)
+
+---
+### Test tasks
+- [cpp-logger-library](https://github.com/leerov/cpp-logger-library)
 - [booking_service](https://github.com/leerov/booking_service)
 
 ---
