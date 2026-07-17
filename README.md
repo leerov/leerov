@@ -16,30 +16,30 @@
 
 ---
 
-### Contact (sorted by priority)
+### 📲 Contact (sorted by priority)
 - [ZhmulevVV@gmail.com](mailto:ZhmulevVV@gmail.com)
 - [Max](https://max.ru/u/f9LHodD0cOKKz--0rQsMUkB_JQO2_0E_fv0Ku7Cimq7U1U38RE_2WBT1rbc)
 - [Telegram](https://t.me/harveyfa)
 - [VK](https://vk.com/leerov)
 
 
-### Some profiles
+### 👤 Some profiles
 - [S21 profile](https://platform.21-school.ru/profile/harveyfa)
 - [Lichess](https://lichess.org/@/Leerov)
 - [Steam](https://steamcommunity.com/id/leerov/)
 
 ---
-### My micro projects
+### 🛠️ My micro projects
 - [pill-schedule](https://leerov.github.io/pill-schedule/)
 
 ---
-### Test tasks
+### 💼 Test tasks
 - [cpp-logger-library](https://github.com/leerov/cpp-logger-library)
 - [booking_service](https://github.com/leerov/booking_service)
 
 ---
 
-### Stack
+### 🎻 Stack
 <p align="left">
     <!-- Языки программирования -->
     <a href="https://www.python.org" target="_blank">
